@@ -15,7 +15,7 @@ Web Development
 Banco de Dados
 
 ## 📫 Conecte-se comigo no LinkedIn
-www.linkedin.com/in/joao-maia-reis-36a515365/
+https://www.linkedin.com/in/pedro-reis-31733b360/
 
 
 ## 🛠️ Habilidades
